@@ -1,0 +1,3 @@
+[submodule "CoreCDM-PrivateRepo"]
+	path = CoreCDM-PrivateRepo
+	url = https://github.com/StackRadiusTrainee/CoreCDM-PrivateRepo.git
